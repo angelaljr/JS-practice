@@ -1,0 +1,44 @@
+h1{text-align: center;
+   color: navy;}
+
+.images{display: flex;
+		width: 100%;}
+
+#group1{margin-left: 40%;}
+#group2{margin-left: 40%;}
+#group3{margin-left: 40%;}
+
+#button1{float: right;
+         border: none;
+         background-color: #ffffff;
+         box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+         padding: 10px;}
+#button2{float: right;
+         border: none;
+         background-color: #ffffff;
+         box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+         padding: 10px;}
+#button3{float: right;
+         border: none;
+         background-color: #ffffff;
+         box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+         padding: 10px;}
+
+#q1{text-align: center;
+	padding: 40px;
+	margin-top: 10%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    width: 60%;
+    margin-left: 18%;}
+#q2{text-align: center;
+	padding: 40px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    width: 60%;
+    margin-left: 18%;
+    margin-top: 5%;}
+#q3{text-align: center;
+	padding: 40px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    width: 60%;
+    margin-left: 18%;
+    margin-top: 5%;}
